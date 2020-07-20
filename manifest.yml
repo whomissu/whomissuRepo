@@ -1,0 +1,6 @@
+---
+applications:
+- name: photo-album
+  memory: 64M
+  instances: 1
+  random-route: true
